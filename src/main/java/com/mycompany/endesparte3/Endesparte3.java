@@ -27,7 +27,7 @@ public class Endesparte3 {
                 int eleccion = teclado.nextInt();
                 
                 switch (eleccion) {
-                    //caso 1, suma dos numeros metidos por teclado
+                    //caso 1, suma dos numeros metidos por teclado 
                     case 1:
                         System.out.println("Introduce el primer numero de la suma");
                         int num1 = teclado.nextInt();
